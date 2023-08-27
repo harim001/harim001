@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @harim001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-harim001/harim001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @harim001         
+- 👀 I’m interested in AI     
+- 🌱 I’m currently learning java                                                     - 💞️ I’m looking to collaborate on projects
+                            - 📫 How to reach me harimrajpoot@gmail.com.
+  //https://instagram.com/mr_shakya_06?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D
+  
